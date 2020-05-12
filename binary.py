@@ -1,3 +1,6 @@
+"""
+This function will take value from user
+"""
 def insert_val():
     val = int(input("Enter a number\n"))
     num = val
